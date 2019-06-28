@@ -1,0 +1,10 @@
+customerid,studio,checkin,checkout
+ID_sokrates,stoa,2010-08-21,2010-08-21 19:22:34
+ID_aristotle,gardens,2010-08-21 14:33:12,2010-08-21 18:12:02
+ID_pythagoras,stoa,2010-08-21 17:27:48,2010-08-21
+ID_pythagoras,stoa,2010-08-21 17:27:48,2010-08-21 +02:00
+ID_sokrates,gardens,2010-08-21 23:00:02,2010-08-21 23:56:59
+unknown,stoa,2010-08-21 12:00:00,2010-08-21 12:40:00
+ID_plato,stoa,2010-08-21 05:32:22,2010-08-21 02:12:03
+ID_diogenes,,2010-08-21 06:45:25,2010-08-21 09:29:23
+ID_diogenes,stoa,2010-08-21 15:25:29,2010-08-21 19:00:41
