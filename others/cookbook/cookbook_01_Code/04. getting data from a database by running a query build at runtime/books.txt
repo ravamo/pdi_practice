@@ -1,0 +1,35 @@
+genre;title
+Non-fiction;Are You There, Vodka? It's me, Chelsea
+Fiction;Bag of Bones
+Fiction;Basket Case
+Fiction;Carrie
+Business;Cashflow Quadrant
+Non-fiction;Chelsea Chelsea Bang Bang
+Children;Harry Potter and the Chamber of Secrets
+Children;Harry Potter and the Deathly Hallows
+Children;Harry Potter and the Goblet of Fire
+Children;Harry Potter and the Half-Blood Prince
+Children;Harry Potter and the Order of the Phoenix
+Children;Harry Potter and the Philosopher's Stone
+Children;Harry Potter and the Prisoner of Azkaban
+Non-fiction;My Horizontal Life
+Fiction;Pet Sematary
+Non-fiction;Power to the People
+Business;Rich Dad, Poor Dad
+Fiction;Salem's Lot
+Fiction;Star Island
+Children;The Battle of the Labyrinth
+Fiction;The Dead Zone
+Fiction;The Girl who Kicked the Hornett's Nest
+Fiction;The Girl who Played with Fire
+Fiction;The Girl with the Dragon Tatoo
+Children;The Last Olympian
+Children;The Lightning Thief
+Business;The Money Answer Book
+Non-fiction;The Obama Diaries
+Children;The Sea of Monsters
+Children;The Sea of Monsters
+Fiction;The Shining
+Fiction;The Tommyknockers
+Business;The Total Money Makeover
+Business;Who Took My Money
